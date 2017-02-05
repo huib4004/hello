@@ -1,4 +1,0 @@
-ECHO is on.
-commit
-commit again
-
