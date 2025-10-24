@@ -1,6 +1,6 @@
 test1 branch 1
 
-ECHO is on. master
+ECHO is on. master + test2
 commit
 commit2
 commit3
