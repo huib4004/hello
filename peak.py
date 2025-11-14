@@ -8,7 +8,7 @@ except:
 from scipy import fft, ifft
 
 try:
-    from scipy.optimize import curve_fitt
+    from scipy.optimize import curve_fit
 except:
     curve_fit = None
 
